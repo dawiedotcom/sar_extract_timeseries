@@ -1,0 +1,11 @@
+numpy
+jupyter
+pandas
+xarray
+ipywidgets
+ipyleaflet 
+ipympl
+rasterio 
+colorbrewer
+spatialite
+aiohttp
