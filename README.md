@@ -2,6 +2,8 @@
 
 A Jupyter Notebook to extract a time series from a set of GeoTiff files.
 
+[![DOI](https://zenodo.org/badge/838361044.svg)](https://zenodo.org/doi/10.5281/zenodo.13222093)
+
 ## How to run
 
 ### Setup the Python environment
